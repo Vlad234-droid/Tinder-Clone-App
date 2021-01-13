@@ -1,4 +1,3 @@
-Link: https://tinder-clone-841fe.web.app
 
 
 # Getting Started with Create React App
